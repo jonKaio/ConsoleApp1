@@ -1,0 +1,4 @@
+﻿PlayerName,Wallet
+Boris,500
+Fred,200
+Jim,100

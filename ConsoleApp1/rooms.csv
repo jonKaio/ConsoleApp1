@@ -1,0 +1,5 @@
+RoomID,Description,Exits,Destinations
+1,A Square white room with 2 doors North and East,ne,"2,3"
+2,A long corridor going north to south,ns,"4,1"
+3,A Cupboard with only an exit to the west,w,1
+4,Small cavern to the south is a long corridor its too dark to see,s,2
